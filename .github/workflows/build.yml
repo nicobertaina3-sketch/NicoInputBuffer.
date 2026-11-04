@@ -21,7 +21,7 @@ jobs:
       - name: Build mod
         uses: geode-sdk/build-geode-mod@main
         with:
-          sdk: nightly
+          sdk: given
           target: ${{ matrix.target }}
           combine: true
 
