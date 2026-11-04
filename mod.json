@@ -1,0 +1,11 @@
+{
+  "geode": "4.0.0",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "nico.input-buffer",
+  "name": "Nico Input Buffer",
+  "version": "1.0.0",
+  "developer": "Nico",
+  "description": "Smart Input Buffer for Geometry Dash Android"
+}
